@@ -3,7 +3,7 @@ SmashQuake
 
 ## What is it?
 
-SmashQuake is a deathmatch Quake modification that uses Super Smash Bros. physics. It was originally programmed in 2008 using both the progs106 (1996) and NewDM beta (2007) source code as a starting point. New mechanics were introduced like double jump. Health behaved differently where you would start at 1 health and taking damage increased your health. The more health you had, the easier would be to knock you off the platform and fall to your death. This mod was only made possible back then with of the support of the Quake community with active playtesters, map creators, server hosts, and programmers that would help me when I was stuck. I plan to continue my work on SmashQuake to make it a complete mod focusing on both fun gameplay and easy accessibility.
+SmashQuake is a deathmatch Quake modification that has game mechanics similar to those found in Super Smash Bros. It was originally programmed in 2008 using both the progs106 (1996) and NewDM beta (2007) source code as a starting point. New mechanics were introduced like double jump. Health behaved differently where you would start at 1 health and taking damage increased your health. The more health you had, the easier would be to knock you off the platform and fall to your death. This mod was only made possible back then with of the support of the Quake community with active playtesters, map creators, server hosts, and programmers that would help me when I was stuck. I plan to continue my work on SmashQuake to make it a complete mod focusing on both fun gameplay and easy accessibility.
 
 ## The Latest Version
 
